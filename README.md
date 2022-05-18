@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ansln
-- 👀 I’m interested in web development and android development
+- 👀 I’m interested in Web Development and Android Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking for 👧
 - 📫 Contact me pijeee07@gmail.com
