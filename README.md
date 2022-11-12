@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ansln
 - 👀 I’m interested in Web Development and Android Development
 - 🕶 I'm currently using PHP for Web Development
-- 🌱 I’m currently learning Javascript
 - 📫 Contact me pijeee07@gmail.com
 
 <!---
