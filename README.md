@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @ansln
 - 👀 I'm interested in Web Development
-- 🕶 I'm currently using PHP for Web Development
-- 🌱 I'm currently learning React, Vue, TailwindCSS, NodeJs
+- 🕶 I'm mostly using PHP for the backend
+- 🌱 I'm currently learning React
 - 📫 Feel free to ask pijeee07@gmail.com
 
 <!---
