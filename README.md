@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @ansln
 - 👀 I'm interested in Web Development
-- 🕶 I'm mostly using PHP for the backend
+- 🕶 I'm mostly using PHP for Back-End Development
 - 🌱 I'm currently learning React
 - 📫 Feel free to ask pijeee07@gmail.com
 
